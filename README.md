@@ -40,7 +40,7 @@ To explore the project:
 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
 
 Feel free to customize the project according to your needs and use it as a reference for your own Excel-based analysis.
-
+.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
